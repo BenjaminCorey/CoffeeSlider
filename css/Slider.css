@@ -1,0 +1,19 @@
+.slider {
+  padding: 0;
+}
+.slideViewport {
+  overflow: hidden;
+}
+.slideViewport .slideWrapper {
+  margin: 0;
+  padding: 0;
+}
+.slideViewport .slideWrapper .slide {
+  float: left;
+  margin: 0;
+  padding: 10px;
+  list-style: none;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
